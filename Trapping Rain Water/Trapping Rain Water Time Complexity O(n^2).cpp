@@ -1,10 +1,6 @@
-// { Driver Code Starts
 #include<bits/stdc++.h>
 
 using namespace std;
-
-
- // } Driver Code Ends
 
 int trappingWater(int a[], int n){
     int ans = 0;
@@ -21,8 +17,6 @@ int trappingWater(int a[], int n){
     }
     return ans;
 }
-
-// { Driver Code Starts.
 
 int main(){
     
@@ -49,4 +43,4 @@ int main(){
     }
     
     return 0;
-}  // } Driver Code Ends
+}  
