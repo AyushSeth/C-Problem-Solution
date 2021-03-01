@@ -1,3 +1,10 @@
+
+// Test Case
+// N = 6
+// height[] = {2,1,3,4,6,5}
+// Output: 8 i.e deleting builddings from index 1 to 4. Remaining buildins are 2 & 5. Minimum is 2. Distance between two building is 4.
+// 2 * (4) = 8
+
 #include<bits/stdc++.h> 
 using namespace std; 
  
